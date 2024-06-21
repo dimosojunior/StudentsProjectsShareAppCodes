@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Students-Projects-Share",
+    "slug": "Students-Projects-Share",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/pp2.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splashe.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 3,
+      "package": "ttpc.StudentsProjectsShare",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pp2.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pp2.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "22c35546-ad41-4624-8566-eab4fabeef41"
+      }
+    }
+
+
+
+
+  },
+   "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-9624381293919157~1439949764"
+    }
+
+
+  
+}
